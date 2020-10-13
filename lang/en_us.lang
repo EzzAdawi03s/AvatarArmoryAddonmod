@@ -1,0 +1,117 @@
+//Items
+
+item.blue_heavy_ball.name=Blue Heavy Ball
+item.wolf_tooth.name=Wolf Tooth
+item.whale_tooth.name=Whale Tooth
+item.battle_club.name=Battle Club
+item.jaw_blade.name=Jaw Blade
+item.machete.name=Machete
+item.spear.name=Spear
+item.whales_tooth_scimitar.name=Whale's Tooth Scimitar
+item.wolf_pelt.name=Wolf Pelt
+item.blue_wolf_pelt.name=Blue Wolf Pelt
+item.metal_ingot.name=Metal Ingot
+item.wolf_head.name=Wolf Head
+item.wolf_tail.name=Wolf Tail
+item.katana.name=Katana
+item.butterfly_sword.name=Butterfly Sword
+item.dao_broadsword.name=Dao Broadsword
+item.hook_sword.name=Hook Sword
+item.kama.name=Kama
+item.kukri.name=Kukri
+item.lochaber_axe.name=Lochaber Axe
+item.naginata.name=Naginata
+item.nunchaku.name=Nunchaku
+item.pearl_handled_dagger.name=Pearl-Handled Dagger
+item.polearm.name=Polearm
+item.pu_dao.name=Pu Dao
+item.war_fan.name=War Fan
+item.hammer.name=Hammer
+item.pearle_handled_dagger.name=Pearle Handled Dagger
+item.staff.name=Staff
+item.ninjato.name=Ninjato
+item.qian_kun_ri_yue_dao.name=Qian Kun Ri Yue Dao
+item.dadao.name=Dadao
+item.firenation_sword.name=Fire Nation Sword
+item.guan_dao.name=Guan Dao
+item.kanabo.name=Kanabo
+item.poison_knife.name=Poison Knife
+item.san_gu_cha.name=San Gu Cha
+item.jii.name=Jii
+item.jian_sword.name=Jian Sword
+item.rock_gloves.name=Rock Gloves
+item.earth_kingdome_copper_coins.name=Earth Kingdome Copper Coins
+item.earth_kingdome_silver_coins.name=Earth Kingdome Silver Coins
+item.earth_kingdome_gold_coins.name=Earth Kingdome Gold Coins
+item.fire_nation_copper_piece.name=Fire Nation Copper Piece
+item.fire_nation_silver_piece.name=Fire Nation Silver Piece
+item.fire_nation_gold_piece.name=Fire Nation Gold Piece
+item.water_tribe_coins.name=Water Tribe Coins
+item.boomerang.name=Boomerang
+item.meteorite_sword.name=Meteorite Sword
+item.meteorite_ingot.name=Meteorite Ingot
+
+
+
+
+
+
+
+//Blocks
+tile.metal_block.name=Metal Block
+tile.metal_ore.name=Metal Ore
+tile.meteorite.name=Meteorite
+
+
+
+
+//Armors
+item.water_tribe_wolf_helmet.name=Water Tribe Wolf Helmet
+item.water_tribe_wolf_chestplate.name=Water Tribe Wolf Chestplate
+item.water_tribe_wolf_leggings.name=Water Tribe Wolf Leggings
+item.water_tribe_wolf_boots.name=Water Tribe Wolf Boots
+
+item.water_tribe_wolf_soldier_helmet.name=Water Tribe Wolf Soldier Helmet
+
+item.water_tribe_wolf_sergent_helmet.name=Water Tribe Wolf Sergent Helmet
+item.water_tribe_wolf_sergent_chestplate.name=Water Tribe Wolf Sergent Chestplate
+
+item.water_tribe_wolf_general_helmet.name=Water Tribe Wolf General Helmet
+item.water_tribe_wolf_general_chestplate.name=Water Tribe Wolf General Chestplate
+
+
+item.earthkingdome_helmet.name=Earth Kingdome Helmet
+item.earthkingdome_chestplate.name=Earth Kingdome Chestplate
+item.earthkingdome_leggings.name=Earth Kingdome Leggings
+item.earthkingdome_boots.name=Earth Kingdome Boots
+
+item.earthkingdome_captain_helmet.name=Earth Kingdome Captain Helmet
+
+item.kyoshi_make_up.name=Kyoshi Make Up
+item.kyoshi_chestplate.name=Kyoshi Chestplate
+item.kyoshi_leggings.name=Kyoshi Leggings
+item.kyoshi_boots.name=Kyoshi Boots
+
+
+item.firenation_helmet.name=Fire Nation Helmet
+item.firenation_chestplate.name=Fire Nation Chestplate
+item.firenation_leggings.name=Fire Nation Leggings
+item.firenation_boots.name=Fire Nation Boots
+
+item.firenation_helmet_mask.name=Fire Nation Helmet Mask
+
+
+item.youngairnomad_chestplate.name=Air Nomad Tunic
+item.youngairnomad_leggings.name=Air Nomad Leggings
+item.youngairnomad_boots.name=Air Nomad Boots
+
+
+
+
+
+
+//Tabs
+itemGroup.watertribearmory=Water Tribe Armory
+itemGroup.firenationarmory=Fire Nation Armory
+itemGroup.earthkingdomarmory=Earth Kingdom Armory
+itemGroup.airnomadarmory=Air Nomad Armory
