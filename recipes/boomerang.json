@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        " MM",
+        "   "
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:dadao",
+        "count": 1
+    }
+}

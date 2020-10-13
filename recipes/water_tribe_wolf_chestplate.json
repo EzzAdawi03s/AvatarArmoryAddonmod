@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "H H",
+        "HHH",
+        "DDD"
+    ],
+    
+    "key":
+    {
+      
+        
+        "H":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "D":
+        {
+            "item": "am:blue_wolf_pelt"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_wolf_chestplate",
+        "count": 1
+    }
+}

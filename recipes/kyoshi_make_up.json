@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XGX",
+        "ZZZ",
+        "ZZZ"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "Z":
+        {
+            "item": "minecraft:quartz"
+        }
+        
+             
+    },
+    
+    "result":
+    {
+        "item": "am:kyoshi_make_up",
+        "count": 1
+    }
+}

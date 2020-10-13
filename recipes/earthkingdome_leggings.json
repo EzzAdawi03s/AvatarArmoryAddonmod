@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CMC",
+        "M M",
+        "P P"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:leather"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:earthkingdome_leggings",
+        "count": 1
+    }
+}

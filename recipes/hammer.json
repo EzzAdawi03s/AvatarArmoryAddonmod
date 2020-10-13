@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TVT",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "V":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:cobblestone"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:hammer",
+        "count": 1
+    }
+}

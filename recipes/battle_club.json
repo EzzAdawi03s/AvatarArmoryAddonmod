@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "HB ",
+        " B ",
+        " L "
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "am:blue_heavy_ball"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:bone"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:leather"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:battle_club",
+        "count": 1
+    }
+}

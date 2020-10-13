@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "TMT",
+        "TMT"
+    ],
+    
+    "key":
+    {
+      
+        
+        "T":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:kyoshi_chestplate",
+        "count": 1
+    }
+}

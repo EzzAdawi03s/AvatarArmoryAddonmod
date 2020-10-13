@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " I ",
+        " SG"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:butterfly_sword",
+        "count": 1
+    }
+}

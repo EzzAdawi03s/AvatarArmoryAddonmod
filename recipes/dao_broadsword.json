@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "   "
+    ],
+    
+    "key":
+    {
+       
+        
+        "I":
+        {
+            "item": "am:dadao"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:dao_broadsword",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "P P",
+        "P P"
+    ],
+    
+    "key":
+    {
+      
+        
+        "P":
+        {
+            "item": "minecraft:paper"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:youngairnomad_leggings",
+        "count": 1
+    }
+}
